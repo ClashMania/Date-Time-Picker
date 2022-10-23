@@ -1,0 +1,12 @@
+C:\Users\heist\Documents\Code\DateTime Picker\bin\Debug\DateTime Picker.exe.config
+C:\Users\heist\Documents\Code\DateTime Picker\bin\Debug\DateTime Picker.exe
+C:\Users\heist\Documents\Code\DateTime Picker\bin\Debug\DateTime Picker.pdb
+C:\Users\heist\Documents\Code\DateTime Picker\obj\Debug\DateTime Picker.csproj.AssemblyReference.cache
+C:\Users\heist\Documents\Code\DateTime Picker\obj\Debug\DateTime Picker.csproj.SuggestedBindingRedirects.cache
+C:\Users\heist\Documents\Code\DateTime Picker\obj\Debug\DateTime_Picker.Form1.resources
+C:\Users\heist\Documents\Code\DateTime Picker\obj\Debug\DateTime_Picker.Properties.Resources.resources
+C:\Users\heist\Documents\Code\DateTime Picker\obj\Debug\DateTime Picker.csproj.GenerateResource.cache
+C:\Users\heist\Documents\Code\DateTime Picker\obj\Debug\DateTime Picker.csproj.CoreCompileInputs.cache
+C:\Users\heist\Documents\Code\DateTime Picker\obj\Debug\DateTime Picker.exe
+C:\Users\heist\Documents\Code\DateTime Picker\obj\Debug\DateTime Picker.pdb
+C:\Users\heist\Documents\Code\DateTime Picker\obj\Debug\ProjektDateTimePicker.Form1.resources
